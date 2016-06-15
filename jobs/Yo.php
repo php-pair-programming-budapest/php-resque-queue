@@ -6,7 +6,7 @@
 
 namespace Jobs;
 
-class Yo {
+class Yo extends AbstractJob {
 
     public function perform()
     {
